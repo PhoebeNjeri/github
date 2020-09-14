@@ -22,4 +22,4 @@ export class DateCountPipe implements PipeTransform {
     }
   }
 
-}
+
